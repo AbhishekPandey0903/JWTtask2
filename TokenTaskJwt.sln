@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenTaskJwt", "TokenTaskJwt\TokenTaskJwt.csproj", "{A3937EAF-E89D-4EF8-A9E3-F47655D4FFE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3937EAF-E89D-4EF8-A9E3-F47655D4FFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3937EAF-E89D-4EF8-A9E3-F47655D4FFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3937EAF-E89D-4EF8-A9E3-F47655D4FFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3937EAF-E89D-4EF8-A9E3-F47655D4FFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28191758-7AB8-47C4-A74D-1A36B2892C82}
+	EndGlobalSection
+EndGlobal
